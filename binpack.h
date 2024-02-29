@@ -56,7 +56,7 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #include <functional>
 
-
+#include <atomic>
 //  https://github.com/official-stockfish/nnue-pytorch/blob/master/lib/nnue_training_data_formats.h#L7491
 
 namespace chess
